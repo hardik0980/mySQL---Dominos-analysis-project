@@ -1,6 +1,5 @@
 # mySQL---Dominos-analysis-project
-# mySQL
-# Dominos
+# mySQL # Dominos
 
 This project analyzed pizza sales data to extract valuable business insights using SQL queries. The key findings are as follows:
 
